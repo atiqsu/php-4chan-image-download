@@ -1,7 +1,7 @@
 php-4chan-image-download
 ========================
 
-Simple 4chan image downloader written in PHP.
+Simple 4chan image downloader written in PHP, also supports webm content.
 
 Can run either from the command line:
 
